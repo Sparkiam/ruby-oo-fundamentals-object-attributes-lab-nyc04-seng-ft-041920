@@ -7,7 +7,7 @@ def name
   @name 
 end 
 
-  def breed=(new_breed)
+  def job=(new_breed)
   @breed = new_breed
 end 
 
